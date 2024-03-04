@@ -25,7 +25,7 @@ The general process is:
 - Download your personal copy to your computer (referred to as 'cloning').
 - Complete the required work.
 - Push your completed code back up to your GitHub repo.
-- Submit your completed work in Canvas through the CodeGrade window.
+- Submit your completed work in Canvas through the CodeGrade window.  
 
 In this assignment, you'll learn the workflow that you will be using to complete
 your assignments and submit them using CodeGrade.
